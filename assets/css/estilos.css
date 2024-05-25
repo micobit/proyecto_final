@@ -11,6 +11,13 @@ body {
   background-position: left;
 }
 
+#laboratorio-section {
+  background-image: url("../img/laboratorio.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
