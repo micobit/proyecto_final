@@ -11,42 +11,42 @@ body {
   background-position: left;
 }
 
-#laboratorio-section {
+#AA-section {
   background-image: url("../img/laboratorio.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-#vigilancia-section {
+#BB-section {
   background-image: url("../img/vigilancia.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-#controlaccesso-section {
+#CC-section {
   background-image: url("../img/controlaccesso.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-#server-section {
+#DD-section {
   background-image: url("../img/controlaccesso.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-#linux-section {
+#EE-section {
   background-image: url("../img/controlaccesso.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-#network-section {
+#FF-section {
   background-image: url("../img/controlaccesso.jpg");
   background-repeat: no-repeat;
   background-size: cover;
